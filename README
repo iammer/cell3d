@@ -1,0 +1,26 @@
+Cellular Automata 3D v0.5
+by Michael Ratliff
+
+INSTALLATION
+------------------------------------------
+
+make
+to compile
+
+cell3d
+to run
+
+HELP
+------------------------------------------
+Read MANUAL or press h for interactive help
+
+
+BUGS
+------------------------------------------
+Make sure to run from command prompt.  The program
+will prompt you for resizing info and file names and
+expect you to reply from that window.
+
+CONTACT
+------------------------------------------
+ratliffm@cis.ohio-state.edu
